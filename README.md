@@ -1,13 +1,21 @@
-## CS464
+# CS464
 
-### Homework 2
+## Homework 1
 
-#### Due 2/17/2014
+_Due 2/3/2014_
 
-### Homework 3
+Write a simple introduction, in addition to a short review of [this paper](http://dl.acm.org/citation.cfm?id=360603).
 
-#### Due 2/24/2014
+## Homework 2
 
-Approximate PI using the Monte Carlo method and pthreads.
+_Due 2/17/2014_
 
-First shalt thou include `pthread.h`, then shalt thou spawn to four, no more, no less. Four shall be the number thou shalt spawn, and the number of the spawning shall be four. Five shalt thou not spawn, neither spawn thou three, excepting that thou then proceed to four. Six is right out.
+Implement a simple shell using `execve` and `waitpid`.
+
+## Homework 3
+
+_Due 2/24/2014_
+
+Approximate Pi using the [Monte Carlo](http://en.wikipedia.org/wiki/Monte_Carlo_method) method and `pthread`. Use 4 threads and 100,000 points.
+
+> First shalt thou include `pthread.h`, then shalt thou spawn to four, no more, no less. Four shall be the number thou shalt spawn, and the number of the spawning shall be four. Five shalt thou not spawn, neither spawn thou three, excepting that thou then proceed to four. Six is right out.
